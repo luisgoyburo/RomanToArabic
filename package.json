@@ -1,0 +1,15 @@
+{
+  "name": "romantoarabic",
+  "version": "1.0.0",
+  "description": "Roman to Arabic Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luis Goyburo",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1",
+    "jest-cli": "^27.3.1"
+  }
+}
